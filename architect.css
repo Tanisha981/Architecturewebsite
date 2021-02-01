@@ -1,0 +1,29 @@
+main{
+	margin-top: 60px;
+}
+.imgfront img{
+	width: 100%;
+}
+.project img{
+	width: 100%;
+}
+.imgfront{
+	position: relative;
+}
+.imgfront h1{
+	position: absolute;
+	top:50%;
+	left: 40%;
+	white-space: pre;
+    opacity: 0.9;
+}
+.project{
+	position: relative;
+}
+.project-title{
+	position: absolute;
+	top: 0%;
+	background-color: black;
+	color: white;
+	padding: 0.6rem;
+}
