@@ -10,7 +10,7 @@ main{
 .imgfront{
 	position: relative;
 }
-.imgfront h1{
+.imgfront h2{
 	position: absolute;
 	top:50%;
 	left: 40%;
